@@ -1,0 +1,6 @@
+numpy
+face_recognition
+dlib
+imutils
+PyQt5
+opencv-python
